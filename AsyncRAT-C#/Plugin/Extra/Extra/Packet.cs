@@ -1,4 +1,4 @@
-﻿using Plugin.Handler;
+using Plugin.Handler;
 using MessagePackLib.MessagePack;
 using System;
 using System.Collections.Generic;

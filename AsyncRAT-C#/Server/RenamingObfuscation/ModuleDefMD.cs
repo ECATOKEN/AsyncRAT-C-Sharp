@@ -1,4 +1,4 @@
-﻿using Server.RenamingObfuscation.Classes;
+using Server.RenamingObfuscation.Classes;
 using Server.RenamingObfuscation.Interfaces;
 using dnlib.DotNet;
 

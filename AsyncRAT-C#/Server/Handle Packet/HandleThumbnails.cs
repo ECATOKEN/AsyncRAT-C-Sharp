@@ -1,4 +1,4 @@
-﻿using Server.MessagePack;
+using Server.MessagePack;
 using Server.Connection;
 using System.Diagnostics;
 using System.Drawing;

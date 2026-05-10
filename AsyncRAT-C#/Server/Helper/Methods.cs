@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualBasic;
+using Microsoft.VisualBasic;
 using Server.Algorithm;
 using Server.Handle_Packet;
 using System;

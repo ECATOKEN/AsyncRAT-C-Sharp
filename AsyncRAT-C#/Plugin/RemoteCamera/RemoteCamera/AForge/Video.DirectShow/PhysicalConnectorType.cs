@@ -1,4 +1,4 @@
-﻿// AForge Direct Show Library
+// AForge Direct Show Library
 // AForge.NET framework
 // http://www.aforgenet.com/framework/
 //

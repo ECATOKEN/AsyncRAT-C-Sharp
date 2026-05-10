@@ -1,4 +1,4 @@
-﻿using StreamLibrary.src;
+using StreamLibrary.src;
 using System;
 using System.Collections.Generic;
 using System.Drawing;

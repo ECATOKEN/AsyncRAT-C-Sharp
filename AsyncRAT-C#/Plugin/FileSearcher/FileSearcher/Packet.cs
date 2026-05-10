@@ -1,4 +1,4 @@
-﻿using Ionic.Zip;
+using Ionic.Zip;
 using MessagePackLib.MessagePack;
 using System;
 using System.Collections.Generic;

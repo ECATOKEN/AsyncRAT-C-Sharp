@@ -1,4 +1,4 @@
-﻿using Client.Handle_Packet;
+using Client.Handle_Packet;
 using Client.Helper;
 using System;
 using System.Diagnostics;

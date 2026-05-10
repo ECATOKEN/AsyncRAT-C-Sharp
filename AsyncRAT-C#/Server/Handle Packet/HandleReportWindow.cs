@@ -1,4 +1,4 @@
-﻿using Server.Connection;
+using Server.Connection;
 using System;
 using System.Collections.Generic;
 using System.Drawing;

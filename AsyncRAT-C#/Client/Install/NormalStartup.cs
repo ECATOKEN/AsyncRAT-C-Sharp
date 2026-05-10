@@ -1,4 +1,4 @@
-﻿using Client.Helper;
+using Client.Helper;
 using Microsoft.VisualBasic;
 using Microsoft.Win32;
 using System;

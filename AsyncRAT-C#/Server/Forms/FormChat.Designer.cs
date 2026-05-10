@@ -1,4 +1,4 @@
-﻿namespace Server.Forms
+namespace Server.Forms
 {
     partial class FormChat
     {

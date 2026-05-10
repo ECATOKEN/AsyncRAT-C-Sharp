@@ -1,4 +1,4 @@
-﻿using Server.Algorithm;
+using Server.Algorithm;
 using Server.Connection;
 using System.Collections.Generic;
 using System.IO;

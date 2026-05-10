@@ -1,4 +1,4 @@
-﻿using MessagePackLib.MessagePack;
+using MessagePackLib.MessagePack;
 using Microsoft.VisualBasic.Devices;
 using System;
 using System.IO;

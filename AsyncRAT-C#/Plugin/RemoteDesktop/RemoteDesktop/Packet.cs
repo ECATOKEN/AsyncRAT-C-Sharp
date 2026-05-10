@@ -1,4 +1,4 @@
-﻿using MessagePackLib.MessagePack;
+using MessagePackLib.MessagePack;
 using Plugin.StreamLibrary;
 using Plugin.StreamLibrary.UnsafeCodecs;
 using System;

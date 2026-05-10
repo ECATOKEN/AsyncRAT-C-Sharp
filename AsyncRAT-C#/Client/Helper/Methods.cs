@@ -1,4 +1,4 @@
-﻿using Client.Connection;
+using Client.Connection;
 using System;
 using System.Collections.Generic;
 using System.Management;

@@ -1,4 +1,4 @@
-﻿using Microsoft.CSharp;
+using Microsoft.CSharp;
 using Microsoft.VisualBasic;
 using Plugin;
 using MessagePackLib.MessagePack;

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Server.MessagePack;
 using Server.Connection;
 using cGeoIp;

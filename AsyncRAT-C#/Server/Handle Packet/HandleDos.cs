@@ -1,4 +1,4 @@
-﻿using Server.Connection;
+using Server.Connection;
 using Server.Forms;
 using Server.MessagePack;
 using System;

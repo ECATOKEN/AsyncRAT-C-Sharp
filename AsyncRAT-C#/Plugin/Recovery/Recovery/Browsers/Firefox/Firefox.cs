@@ -1,4 +1,4 @@
-﻿using Plugin.Browsers.Firefox.Cookies;
+using Plugin.Browsers.Firefox.Cookies;
 using System;
 using System.Collections.Generic;
 using System.Linq;

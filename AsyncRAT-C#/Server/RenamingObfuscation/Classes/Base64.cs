@@ -1,4 +1,4 @@
-﻿using Server.RenamingObfuscation.Interfaces;
+using Server.RenamingObfuscation.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

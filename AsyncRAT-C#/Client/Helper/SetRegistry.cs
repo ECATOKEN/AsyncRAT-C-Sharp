@@ -1,4 +1,4 @@
-﻿using Client.Handle_Packet;
+using Client.Handle_Packet;
 using Microsoft.Win32;
 using System;
 using System.Collections.Generic;

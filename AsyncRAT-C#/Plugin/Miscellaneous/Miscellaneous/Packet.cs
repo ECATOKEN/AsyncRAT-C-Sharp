@@ -1,4 +1,4 @@
-﻿using Miscellaneous.Handler;
+using Miscellaneous.Handler;
 using MessagePackLib.MessagePack;
 using System;
 using System.Collections.Generic;

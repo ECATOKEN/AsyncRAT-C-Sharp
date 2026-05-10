@@ -1,4 +1,4 @@
-﻿using Plugin.StreamLibrary.src;
+using Plugin.StreamLibrary.src;
 using System;
 using System.Drawing;
 using System.Drawing.Imaging;

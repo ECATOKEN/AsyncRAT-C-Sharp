@@ -1,4 +1,4 @@
-﻿using System.Threading;
+using System.Threading;
 using Client.Connection;
 using Client.Install;
 using System;

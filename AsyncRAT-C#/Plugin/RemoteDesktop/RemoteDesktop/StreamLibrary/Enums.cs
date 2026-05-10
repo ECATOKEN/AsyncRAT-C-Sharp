@@ -1,4 +1,4 @@
-﻿namespace Plugin.StreamLibrary
+namespace Plugin.StreamLibrary
 {
     public enum CodecOption
     {

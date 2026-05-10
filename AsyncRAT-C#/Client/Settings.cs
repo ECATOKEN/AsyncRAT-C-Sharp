@@ -1,4 +1,4 @@
-﻿using Client.Algorithm;
+using Client.Algorithm;
 using Client.Helper;
 using System;
 using System.IO;

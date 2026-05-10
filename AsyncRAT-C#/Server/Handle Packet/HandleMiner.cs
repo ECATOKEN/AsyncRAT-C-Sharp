@@ -1,4 +1,4 @@
-﻿using Server.Algorithm;
+using Server.Algorithm;
 using Server.Connection;
 using Server.MessagePack;
 using System.Diagnostics;
